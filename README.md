@@ -1,2 +1,32 @@
-# uart-verilog
-Verilog-based UART communication design with RTL implementation and simulation using a testbench.
+# UART Communication using Verilog
+
+## Project Overview
+
+A UART communication project designed and simulated using Verilog HDL. The project implements UART communication at the RTL level and verifies its functionality through simulation.
+
+## Features
+
+- UART transmitter
+- UART receiver
+- Serial data communication
+- RTL-based Verilog design
+- Simulation and functional verification
+
+## Tools Used
+
+- Verilog HDL
+- Ubuntu/Linux
+- Simulation tools
+- FPGA/Digital IC Design workflow
+
+## Project Files
+
+- UART transmitter
+- UART receiver
+- Top module
+- Testbench
+- Simulation files
+
+## Verification
+
+The UART design was tested using a Verilog testbench to verify serial data transmission and reception.
