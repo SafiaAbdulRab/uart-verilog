@@ -15,7 +15,7 @@ A UART communication project designed and simulated using Verilog HDL. The proje
 ## Tools Used
 
 - Verilog 
-- Ubuntu/Linux
+- Questa sim
 - Simulation tools
 - FPGA/Digital IC Design workflow
 
