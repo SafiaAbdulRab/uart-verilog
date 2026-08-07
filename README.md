@@ -14,15 +14,15 @@ A UART communication project designed and simulated using Verilog HDL. The proje
 
 ## Tools Used
 
-- Verilog HDL
+- Verilog 
 - Ubuntu/Linux
 - Simulation tools
 - FPGA/Digital IC Design workflow
 
 ## Project Files
 
-- UART transmitter
-- UART receiver
+- UART master
+- UART slave
 - Top module
 - Testbench
 - Simulation files
